@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this working paper, please cite it as follows.
+title: 'Evidence-Preserving Research Amortization: A Formal Cost Model and Experimental Agenda for Shared Knowledge in AI-Agent Systems'
+authors:
+  - family-names: Jackson
+    given-names: James
+version: 1.2
+date-released: '2026-11-03'
+type: other
+abstract: >-
+  Independent theoretical working paper proposing source-linked, versioned evidence packets for amortizing repeated research. The numerical examples are synthetic, and the paper is not peer reviewed. AI tools assisted with drafting and editing.
