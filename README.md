@@ -2,7 +2,9 @@
 
 **James Jackson** · Signal Atlas Research Program · Working paper v1.2 · 3 November 2026 · 18 pages · Not peer reviewed
 
-[Download the complete 18-page PDF](https://raw.githubusercontent.com/jacksonjp0311-gif/evidence-preserving-research-amortization/main/Evidence_Preserving_Research_Amortization_White_Paper_v1.2.pdf) · [View the PDF in the repository](https://github.com/jacksonjp0311-gif/evidence-preserving-research-amortization/blob/main/Evidence_Preserving_Research_Amortization_White_Paper_v1.2.pdf)
+[Download the complete 18-page PDF](https://raw.githubusercontent.com/jacksonjp0311-gif/evidence-preserving-research-amortization/30265349bb1c852de859356ea49d7352bdbedc63/Evidence_Preserving_Research_Amortization_White_Paper_v1.2.pdf) · [View the PDF in the repository](https://github.com/jacksonjp0311-gif/evidence-preserving-research-amortization/blob/30265349bb1c852de859356ea49d7352bdbedc63/Evidence_Preserving_Research_Amortization_White_Paper_v1.2.pdf)
+
+The GitHub preview opens on the cover; the download link serves the complete paper.
 
 **Research concept and direction:** James Jackson. AI tools assisted with drafting, editing, and illustrative model construction. This independent proposal claims no institutional affiliation.
 
